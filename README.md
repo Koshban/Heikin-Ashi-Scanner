@@ -5,6 +5,7 @@ Basic Info : Generate email on basis of a scan of names ( in symbols.csv file ) 
              For more details on HA, there are tons of articles on the internet. E.g. https://www.investopedia.com/terms/h/heikinashi.asp
 
 Requirements : You will need Python version 3.8 or above. And some dependent packages e.g Pandas etc, detailed in the setup.py file.
+             : You will also need to setup a small DataBase and Table, Alphavantage API Keys, your email id/password
 
 Contact Info : Feel free to contact me to discuss any issues, questions, or comments. My contact info can be found on my GitHub page.
 
